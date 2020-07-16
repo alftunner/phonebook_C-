@@ -1,0 +1,4 @@
+firstname=Petr
+lastname=Petrov
+phone1=+79304184181
+phone2=-
